@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters of the Lord Digby to the Lord Taaff, the Rebels General in Munster : Taken in the said Generals Cabinet, in the late battel between him and the Lord Inchiquine; shewing the Lord Digbies activeness there, to uphold a party among the Rebels for the King, against the Parliaments Forces in that Kingdom. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H:Elsynge, Cler. Parl. D. Com.</title>
+            <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77533</idno>
+            <idno type="STC">Wing B4780</idno>
+            <idno type="STC">Thomason E419_8</idno>
+            <idno type="STC">ESTC R204620</idno>
+            <idno type="EEBO-CITATION">99864085</idno>
+            <idno type="PROQUEST">99864085</idno>
+            <idno type="VID">161339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters of the Lord Digby to the Lord Taaff, the Rebels General in Munster : Taken in the said Generals Cabinet, in the late battel between him and the Lord Inchiquine; shewing the Lord Digbies activeness there, to uphold a party among the Rebels for the King, against the Parliaments Forces in that Kingdom. Ordered by the Commons assembled in Parliament, that these letters be forthwith printed and published. H:Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decem. 4. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carlingford, Theobald Taafe, --  Earl of, d. 1677 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161339:1"/>
+            <p>TWO LETTERS OF The Lord <hi>DIGBY</hi> TO The Lord <hi>Taaff,</hi> the Rebels General in MUNSTER:</p>
+            <p>Taken in the ſaid Generals Cabinet, in the late Battel between him and the Lord <hi>Inchiquine;</hi>
+            </p>
+            <p>SHEWING The Lord <hi>Digbies</hi> Activeneſs there, to uphold a Party among the Rebels for the King, againſt the Parlia<g ref="char:EOLhyphen"/>ments Forces in that Kingdom.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>ORdered by the Commons aſſembled in Parliament, That theſe</hi> Letters <hi>be forthwith Printed and Publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>Decem.</hi> 4. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161339:2"/>
+            <pb n="3" facs="tcp:161339:2"/>
+            <head>To the Right Honorable, The Lord Viſcount <hi>Taaff.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>I Count it one of the greateſt un<g ref="char:EOLhyphen"/>happineſſes that hath befaln me, that I muſt go out of the kingdom without conferring with a perſon up<g ref="char:EOLhyphen"/>on whom I ſo much depend, both in what concerns His Majeſties Ser<g ref="char:EOLhyphen"/>vice, and my own particular Inte<g ref="char:EOLhyphen"/>reſts in this Kingdom; and who (if I do not flatter my ſelf) does me the favor, in ſome meaſure, to depend upon my Reſolutions, either in or<g ref="char:EOLhyphen"/>der to the Affairs of this Kingdom or<seg rend="below">k 3.</seg> of<seg rend="below">h 5.</seg> e<seg rend="below">17.</seg> m<seg rend="below">31.</seg> p<seg rend="below">37.</seg> l<seg rend="below">29.</seg> o<seg rend="below">35.</seg> y<seg rend="below">53.</seg> me<seg rend="below">g3.</seg> n<seg rend="below">33.</seg> t<seg rend="below">45.</seg> be<seg rend="below">26.</seg> y<seg rend="below">53.</seg> o<seg rend="below">36.</seg> n<seg rend="below">34.</seg> d<seg rend="below">16.</seg> the<seg rend="below">65.</seg> s<seg rend="below">43.</seg> e<seg rend="below">17.</seg> a<seg rend="below">9.</seg> 57. where I do renew unto your
+<pb n="4" facs="tcp:161339:3"/>Lordſhip the aſſurance, that in caſe we cannot ſucceed ſo in the way of His Majeſties Service from this Kingdom, as that you may be en<g ref="char:EOLhyphen"/>couraged to ſet up your reſt in it, I ſhall not take more care of mine own Honor and Fortunes, then of yours, if<seg rend="below">c 4</seg>you<seg rend="below">370.</seg> will<seg rend="below">n 4.</seg> R<seg rend="below">41.</seg> e<seg rend="below">17.</seg> l<seg rend="below">29.</seg> y<seg rend="below">53.</seg> v<seg rend="below">47.</seg> p<seg rend="below">37.</seg> on<seg rend="below">k1.</seg> my<seg rend="below">g4.</seg> c<seg rend="below">13.</seg> a<seg rend="below">10.</seg> r<seg rend="below">41.</seg> e<seg rend="below">18.</seg> t<seg rend="below">45.</seg> o<seg rend="below">36.</seg> n<seg rend="below">34.</seg> e<seg rend="below">17.</seg> g<seg rend="below">21.</seg> o<seg rend="below">35.</seg> t<seg rend="below">45.</seg> i<seg rend="below">25.</seg> a<seg rend="below">10.</seg> t<seg rend="below">46.</seg> e<seg rend="below">17.</seg> for<seg rend="below">c 5.</seg> you<seg rend="below">370.</seg> a<seg rend="below">9.</seg> s<seg rend="below">45.</seg> I<seg rend="below">25.</seg> do<seg rend="below">c 1.</seg> v<seg rend="below">47.</seg> p<seg rend="below">37.</seg> on<seg rend="below">k 1.</seg> the<seg rend="below">m 5.</seg> aſſurances you<seg rend="below">370.</seg> have<seg rend="below">e 1.</seg> 
+               <seg rend="below">d 1</seg>give a<seg rend="below">33.</seg> of<seg rend="below">h 5.</seg> not<seg rend="below">g 5.</seg> ſ<seg rend="below">44.</seg> e<seg rend="below">18.</seg> p<seg rend="below">37.</seg> a<seg rend="below">10.</seg> r<seg rend="below">41.</seg> a<seg rend="below">9.</seg> t<seg rend="below">45.</seg> in<seg rend="below">e 5.</seg> g<seg rend="below">21.</seg> from<seg rend="below">
+                  <hi>c</hi> 6.</seg> me<seg rend="below">g 3</seg> in<seg rend="below">e 5</seg> the<seg rend="below">m 5.</seg> w<seg rend="below">40.</seg> a<seg rend="below">10.</seg> y<seg rend="below">53.</seg> e<seg rend="below">18.</seg> s<seg rend="below">44.</seg> of<seg rend="below">h 5.</seg> o<seg rend="below">35.</seg> v<seg rend="below">47.</seg> r<seg rend="below">42.</seg> for<seg rend="below">c 5</seg> t<seg rend="below">45.</seg> v<seg rend="below">47.</seg> n<seg rend="below">33.</seg> e<seg rend="below">17.</seg> I am moſt confident you will finde an excellent correſpondence of friend<g ref="char:EOLhyphen"/>ſhip in Lo: Muskery<seg rend="below">244.</seg> both towards you and me; and I do ſtedfaſtly Now<seg rend="below">60.</seg> r<seg rend="below">41.</seg> e<seg rend="below">17.</seg> l<seg rend="below">29.</seg> y<seg rend="below">63.</seg> a<seg rend="below">10.</seg> I<seg rend="below">29.</seg> ſ<seg rend="below">43.</seg> o<seg rend="below">36.</seg> v<seg rend="below">47.</seg> p<seg rend="below">37.</seg> on<seg rend="below">k 1.</seg> my<seg rend="below">g 4.</seg> Lord<seg rend="below">223.</seg> d<seg rend="below">15.</seg> i<seg rend="below">26.</seg> l<seg rend="below">30.</seg> l<seg rend="below">29.</seg> on<seg rend="below">k 1.</seg> s<seg rend="below">43.</seg> and<seg rend="below">a 3.</seg> f<seg rend="below">44.</seg> i<seg rend="below">25.</seg> r<seg rend="below">41.</seg> i<seg rend="below">26.</seg> a<seg rend="below">10.</seg> m<seg rend="below">31.</seg> e<seg rend="below">18.</seg> s<seg rend="below">43.</seg> d<seg rend="below">16.</seg> i<seg rend="below">25.</seg> l<seg rend="below">29.</seg> l<seg rend="below">30.</seg> on<seg rend="below">k 1.</seg> s<seg rend="below">43.</seg> a<seg rend="below">9.</seg> d<seg rend="below">15.</seg> he<seg rend="below">d 4.</seg> r<seg rend="below">42.</seg> in<seg rend="below">c 5.</seg> g<seg rend="below">21.</seg> to<seg rend="below">m 3.</seg> o<seg rend="below">35.</seg> v<seg rend="below">47.</seg> r<seg rend="below">42.</seg> for<seg rend="below">c 5.</seg> t<seg rend="below">46.</seg> v<seg rend="below">48.</seg> n<seg rend="below">34.</seg> e<seg rend="below">18.</seg> s<seg rend="below">43.</seg> in caſe we cannot ſucceed in the ways now
+<pb n="5" facs="tcp:161339:3"/>propoſed, of uniting this party to His Majeſties Authority; with the par<g ref="char:EOLhyphen"/>ticulars of which, Mr. <hi>Wintour Grant,</hi> whom I have deſired to ſtay here till he hears again from me a ſudden account of all things: In the mean while, and ever, be confident that I am moſt faithfully and unal<g ref="char:EOLhyphen"/>terably,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips affectionate humble Servant, <hi>G. Digby.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>20 Aug. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:161339:4"/>
+            <head>To the Lord Viſcount <hi>Taaff.</hi>
+            </head>
+            <opener>
+               <salute>My dear Lord,</salute>
+            </opener>
+            <p>RElying upon your conſtancy to vvhat you have promiſed, I ſhall go on boldly and induſtriouſly in the vvays of ferving you; and I make no queſtion, but I ſhall either ſucceed in dravving the party you are now engaged vvith, under His Majeſties povver, in vvhich caſe the chief Military Command of this Kingdom vvill be in your hands, as I could vviſh; or elſe in caſe it be fit, you in Duty and Loyalty to His Majeſty to quit this countrey, I ſhall ſettle you ſuch conditions of Honor and advantage abroad, as you ſhall confeſs I have been no ill manager of your Intereſts. Two things onely I
+<pb n="7" facs="tcp:161339:4"/>have to recommend unto your care, the one, That you endeavor to draw to you into <hi>Munſter,</hi> ſuch <hi>Leinſter</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> Forces as you are ſure are poſſeſt with the ſame reſolutions that you are; the other, that you will not let any appearing advantage, or the height of your ſpirit tranſport ye to hazard a fight with your Forces this Summer, but to ſtand unalterably upon the warieſt defenſive you can; carrying always in your minde, That both all our hopes for His Majeſties ſervice in this Kingdom, and in caſe thoſe fail, thoſe of our own being conſiderable abroad, depend upon your preſerving that Army. One thing more I ſhall beg of you, That ſince our Duty to His Majeſties In<g ref="char:EOLhyphen"/>tereſts, and to our own Honor, ha<g ref="char:EOLhyphen"/>ving
+<pb n="8" facs="tcp:161339:5"/>already received Moneys, ob<g ref="char:EOLhyphen"/>lige us to tender our ſervice in the firſt place to <hi>France;</hi> that you will not make your ſelf ſo familiar with <hi>Don Diego,</hi> as to draw ſuſpition from the French Agents of your dealing dou<g ref="char:EOLhyphen"/>bly; which will be ruinous to all our undertakings, if once our Honors ſhould be in that kinde diſparaged. This is all I have to ſay at preſent, more then to conjure you to relie up<g ref="char:EOLhyphen"/>on this truth, That you could not in the world have fixt upon a friend ſo careful of your Intereſts, as you ſhall finde</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your faithfulleſt humble Servant, G. DIGBY.</signed>
+               <dateline>
+                  <hi>Wexford</hi> 
+                  <date>this laſt of <hi>Aug.</hi> 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I conjure you to be as good as your word, in ſending me over the ſweet youth your Son; and by my care of him, judge of the reſt.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
